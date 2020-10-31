@@ -1,0 +1,8 @@
+body {
+    margin: 0px;
+    font-family: 'Roboto Slab', serif;
+    color: #fff;
+}
+canvas {
+    display: block;
+}
